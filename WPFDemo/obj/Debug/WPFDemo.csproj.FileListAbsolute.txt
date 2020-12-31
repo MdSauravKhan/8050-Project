@@ -1,0 +1,40 @@
+C:\Users\keval(kp)\source\repos\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe.config
+C:\Users\keval(kp)\source\repos\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe
+C:\Users\keval(kp)\source\repos\WPFDemo\WPFDemo\bin\Debug\WPFDemo.pdb
+C:\Users\keval(kp)\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csprojAssemblyReference.cache
+C:\Users\keval(kp)\source\repos\WPFDemo\WPFDemo\obj\Debug\MainWindow.g.cs
+C:\Users\keval(kp)\source\repos\WPFDemo\WPFDemo\obj\Debug\App.g.cs
+C:\Users\keval(kp)\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.cache
+C:\Users\keval(kp)\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.lref
+C:\Users\keval(kp)\source\repos\WPFDemo\WPFDemo\obj\Debug\MainWindow.baml
+C:\Users\keval(kp)\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.g.resources
+C:\Users\keval(kp)\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.Properties.Resources.resources
+C:\Users\keval(kp)\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.GenerateResource.cache
+C:\Users\keval(kp)\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.CoreCompileInputs.cache
+C:\Users\keval(kp)\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe
+C:\Users\keval(kp)\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.pdb
+C:\Users\keval(kp)\source\repos\WPFDemo\WPFDemo\obj\Debug\Window1.g.cs
+C:\Users\keval(kp)\source\repos\WPFDemo\WPFDemo\obj\Debug\Window1.baml
+C:\Users\keval(kp)\source\repos\WPFDemo\WPFDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Savrav Khan\source\repos\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe.config
+C:\Users\Savrav Khan\source\repos\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe
+C:\Users\Savrav Khan\source\repos\WPFDemo\WPFDemo\bin\Debug\WPFDemo.pdb
+C:\Users\Savrav Khan\source\repos\WPFDemo\WPFDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Savrav Khan\source\repos\WPFDemo\WPFDemo\obj\Debug\Window1.g.cs
+C:\Users\Savrav Khan\source\repos\WPFDemo\WPFDemo\obj\Debug\App.g.cs
+C:\Users\Savrav Khan\source\repos\WPFDemo\WPFDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Savrav Khan\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.cache
+C:\Users\Savrav Khan\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.lref
+C:\Users\Savrav Khan\source\repos\WPFDemo\WPFDemo\obj\Debug\MainWindow.baml
+C:\Users\Savrav Khan\source\repos\WPFDemo\WPFDemo\obj\Debug\Window1.baml
+C:\Users\Savrav Khan\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.g.resources
+C:\Users\Savrav Khan\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.Properties.Resources.resources
+C:\Users\Savrav Khan\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.GenerateResource.cache
+C:\Users\Savrav Khan\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.CoreCompileInputs.cache
+C:\Users\Savrav Khan\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe
+C:\Users\Savrav Khan\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.pdb
+C:\Users\Savrav Khan\source\repos\WPFDemo\WPFDemo\obj\Debug\Employe.g.cs
+C:\Users\Savrav Khan\source\repos\WPFDemo\WPFDemo\obj\Debug\Employe.baml
+C:\Users\Savrav Khan\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csprojAssemblyReference.cache
+C:\Users\Savrav Khan\source\repos\WPFDemo\WPFDemo\obj\Debug\Booking.g.cs
+C:\Users\Savrav Khan\source\repos\WPFDemo\WPFDemo\obj\Debug\Booking.baml
