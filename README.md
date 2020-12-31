@@ -1,1 +1,2 @@
 # 8050-Project
+Using WPF to develop the GUI application with various room packages and offers. Registered guests can login to the system to search for suitable accommodation and need confirmation for the reservation on particular time. Registered guests can even cancel the earlier reservations made by him/her or can view previous reservation. Moreover, customer can add any file for further details.
